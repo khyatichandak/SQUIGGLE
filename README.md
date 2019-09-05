@@ -1,0 +1,4 @@
+# SQUIGGLE
+Handwritting detection application
+
+
